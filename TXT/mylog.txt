@@ -11,3 +11,5 @@ ZCZC W00 195 L09 Weekly Assignments
 ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 70 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 30 L03 GitHub and git related, including commit, push, pull
+ZCZC W01 20 L32 YouTube: watching OS related topics, etc.
+ZCZC W01 100 L05 Quiz related including studying
