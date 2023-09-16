@@ -1,3 +1,3 @@
 # OS232
-|| [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/fikrirmdhna/os232/) ||
-#### REV06: Sat 09 Sep 2023 17:22
+[TARBALL](https://os.vlsm.org/Log/fikrirmdhna.tar.bz2.txt) || [LINKS](LINKS/) || [LOG](TXT/mylog.txt) || [GitHub](https://github.com/fikrirmdhna/os232/) ||
+#### REV07: Sat 16 Sep 2023 16:49
