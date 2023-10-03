@@ -1,6 +1,12 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W04 120 L09 Weekly Assignments
+ZCZC W04 10 YouTube: watching OS related topics, etc.
+ZCZC W04 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W04 20 L22 Linux CLI including tar, etc.
+ZCZC W04 60 L05 Quiz related including studying
+ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 200 L09 Weekly Assignments
 ZCZC W03 20 Linux CLI including tar, etc.
 ZCZC W03 30 L05 Quiz related including studying
