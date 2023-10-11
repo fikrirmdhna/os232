@@ -11,5 +11,7 @@ permalink: LINKS/
 * [Vim Basics in 8 Minutes](https://youtu.be/ggSyF1SVFr4?si=h4xyQMp-VJdXCT-T)--- A tutorial that shows us how to use vim editor, it helps to improve skills on a remote machine or in command line only environment. Vim is a modal editor, which means it has two modes, command mode and insert mode. To enter insert mode just press i, to exit insert mode and back to command mode press esc.  
 
 * [Pointers (Important Questions)](https://youtu.be/cEphEIMaqms?si=2XZsAN-W1BZBX4mA)--- From this video, you'll discover a bunch of essential inquiries focused on the basics of pointers. It offers a concise elucidation of the disparities between pointers and dereferencing operators.
+
+* [Virtual Memory: 7 Address Translation Example Walkthrough](https://youtu.be/6neHHkI0Z0o?si=b5yVYnKhNpNbLzyb)--- Understanding the operation of virtual memory translation, including the mapping of virtual page numbers and offsets to their corresponding physical page numbers and offsets. How to store page table entries on a storage medium, such as a disk. And dealing with page faults, which occur when needed pages are not in memory. 
 <br>
 <hr>
