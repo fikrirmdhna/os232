@@ -14,9 +14,9 @@ permalink: LINKS/
 
 * [Virtual Memory: 7 Address Translation Example Walkthrough](https://youtu.be/6neHHkI0Z0o?si=b5yVYnKhNpNbLzyb)--- Understanding the operation of virtual memory translation, including the mapping of virtual page numbers and offsets to their corresponding physical page numbers and offsets. How to store page table entries on a storage medium, such as a disk. And dealing with page faults, which occur when needed pages are not in memory. 
 
-* [Deadlock in Operating System | GeeksforGeeks](https://youtu.be/onkWXaXAgbY?si=Rws2ShTDZXGH1ZsQ)--- This video explains the definition of deadlock and what condition necessary for deadlock. It shows us the real-world example of deadlock condition. And the conditions are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait.
-
 * [Process creation and termination - fork(), exec(), wait() and exit()](https://youtu.be/TMNGAxtZzvw?si=3s-VuKdmogRaEcHz)--- In UNIX systems, process creation is accomplished using the fork() command, resulting in the creation of a parent process and a child process. The child process is an identical duplicate of the parent, and they both run concurrently. To execute different programs simultaneously, exec() overlays the code in a process. The parent process can suspend itself using wait() to await the child's completion. If wait() is not called by the parent, it continues running independently, leading to the creation of zombie processes if the child exits without being waited for. Alternatively, if the parent process terminates without waiting, any remaining child processes become orphans.
+
+* [Deadlock in Operating System GeeksforGeeks](https://youtu.be/onkWXaXAgbY?si=Rws2ShTDZXGH1ZsQ)--- This video explains the definition of deadlock and what condition necessary for deadlock. It shows us the real-world example of deadlock condition. And the conditions are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait.
 
 * [LFS 12.0 - How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=FEke7k12uHtjM3wQ)--- This video helps us for building LFS. It guides us systematically, providing clear instructions on how the commands operate. Through careful observation, we gain insight into the required inputs and anticipated outputs, ensuring we don't overlook any steps in the process. 
 <br>
