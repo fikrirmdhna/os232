@@ -19,5 +19,7 @@ permalink: LINKS/
 * [Deadlock in Operating System GeeksforGeeks](https://youtu.be/onkWXaXAgbY?si=Rws2ShTDZXGH1ZsQ)--- This video explains the definition of deadlock and what condition necessary for deadlock. It shows us the real-world example of deadlock condition. And the conditions are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait.
 
 * [LFS 12.0 - How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=FEke7k12uHtjM3wQ)--- This video helps us for building LFS. It guides us systematically, providing clear instructions on how the commands operate. Through careful observation, we gain insight into the required inputs and anticipated outputs, ensuring we don't overlook any steps in the process. 
+
+* [Operating System-Mass Storage Structure](https://youtube.com/playlist?list=PLskQvPDUk0sIpg-7EGPiE_kPjpAakY_ey&si=RvboCpbV1AYbD47m)--- The mass storage structure in an operating system involves how data is stored and managed on storage devices. Key elements include file systems for organization, device drivers for communication, disk management for partitioning and formatting, I/O operations for data transfer, caching and buffers for performance, RAID for improved reliability, virtual memory for efficient use of RAM and storage, and security measures for access control. The operating system plays a vital role in coordinating these aspects to ensure effective storage, retrieval, and protection of data on mass storage devices.
 <br>
 <hr>
